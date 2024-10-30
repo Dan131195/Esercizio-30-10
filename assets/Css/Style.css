@@ -29,10 +29,9 @@ h1.title{
     text-align: center;
 }
 .video{
-    box-shadow: grey;
     width: 100%;
     border-radius: 2%;
-    box-shadow: 4px 4px 8px #DDE0E3;
+    box-shadow: 5px 5px 8px #DDE0E3;
 }
 .vDesc {
     text-align: center;
