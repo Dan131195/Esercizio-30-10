@@ -1,0 +1,57 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    margin: 0;
+}
+header {
+    text-align: center;
+}
+.logo{
+    width: 220px;
+    margin: 1.5em;
+}
+.subtitle {
+    background-color: #FDFBF1;
+    border-top: 2px solid #FEE9B3;
+    align-content: center;
+    color: #094F4F;
+}
+.subtitle p {
+    font-size: 0.8em;
+}
+#content {
+    width: 60vw;
+    margin: 0 auto;
+}
+h1.title{
+    text-align: center;
+}
+.video{
+    box-shadow: grey;
+    width: 100%;
+    border-radius: 2%;
+    box-shadow: 3px 3px 8px gray;
+}
+.vDesc {
+    text-align: center;
+    color: #A0A0A0;
+}
+#linkVid {
+    color: #B34007;
+    border-left: 2px solid #FFE093 ;
+    padding-left: 10px;
+}
+a {
+    color: #016F6F;
+}
+aside {
+    width: 60vw;
+    margin: 0 auto;
+}
+section h2 {
+    font-weight: normal;
+}
+section hr{
+    border: 1px solid #D1F6F5;
+}
