@@ -53,3 +53,6 @@ section h2 {
 section hr{
     border: 1px solid #D1F6F5;
 }
+li {
+    margin-bottom: 1.5em;
+}
