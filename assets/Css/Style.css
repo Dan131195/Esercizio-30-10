@@ -6,9 +6,10 @@ body {
 }
 header {
     text-align: center;
+    margin-top: -15px;
 }
 .logo{
-    width: 220px;
+    width: 200px;
     margin: 1.5em;
 }
 .subtitle {
@@ -21,7 +22,7 @@ header {
     font-size: 0.8em;
 }
 #content {
-    width: 60vw;
+    width: 50vw;
     margin: 0 auto;
 }
 h1.title{
@@ -31,7 +32,7 @@ h1.title{
     box-shadow: grey;
     width: 100%;
     border-radius: 2%;
-    box-shadow: 3px 3px 8px gray;
+    box-shadow: 4px 4px 8px #DDE0E3;
 }
 .vDesc {
     text-align: center;
@@ -45,10 +46,7 @@ h1.title{
 a {
     color: #016F6F;
 }
-aside {
-    width: 60vw;
-    margin: 0 auto;
-}
+
 section h2 {
     font-weight: normal;
 }
