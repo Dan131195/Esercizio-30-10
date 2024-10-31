@@ -7,10 +7,10 @@ body {
 }
 header {
     text-align: center;
-    margin-top: -15px;
+    margin-top: -1%;
 }
 .logo{
-    width: 200px;
+    width: 15%;
     margin: 1.5em;
 }
 .subtitle {
@@ -32,7 +32,7 @@ h1.title{
 .video{
     width: 100%;
     border-radius: 2%;
-    box-shadow: 5px 5px 8px #DDE0E3;
+    box-shadow: 5px 5px 8px #424344;
 }
 .vDesc {
     text-align: center;
